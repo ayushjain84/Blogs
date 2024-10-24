@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "project"]
+	url = https://github.com/ayushjain84/project
+	fetch = +refs/heads/*:refs/remotes/project/*
